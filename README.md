@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+저의 이름은 김민혁입니다. 반갑습니다.
 <!--
 **ssoo221/ssoo221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
