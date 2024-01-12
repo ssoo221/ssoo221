@@ -8,6 +8,8 @@ return sum
 rename
 
 Create contribute
+
+Create main.{py}
 # - 저의 이름은 김민혁입니다. 반갑습니다.
 <h1 align="center">Hi 👋, I'm min hyeok</h1>
 <h3 align="center">human</h3>
